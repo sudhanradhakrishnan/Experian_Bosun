@@ -8,4 +8,4 @@
 8. Many of the code written as part of testing is not removed and is commented in the application
 9. The way in which I used to test the application is by entring the Cotroller/Action in the url once the localhost is up.
 10. The code is not cleaned up as I am continuing with the 'what is new in VS 2019' especially in changes related to middlewares. So the unused namespaces and commented codes are still there.
-11. As this is a personal project created only for the purpose of learning and experimenting latest changes with VS, I did not pay much attention on the coding standards and optimizations etc.
+11. As this is a personal project created only for the purpose of learning and experimenting latest changes with VS, attention was not much on the coding standards and optimizations, but mainly on identifying the changes and learning the latest.
