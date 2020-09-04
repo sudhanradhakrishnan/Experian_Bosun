@@ -1,0 +1,11 @@
+1. Employee is a sample project created for learning and experimenting VisualStudio 2019 and .net Core 3.1
+2. To open the soulution click on the Employee.sln from the Employee.Web folder inside the Employee folder
+3. Web application project is mainly consuming the functionalites from the dependent projects for accessing data from SQL DB and In memory.
+4. Opening the solution will open all the dependent projects.
+5. Applicaton is using Local Sql DB the connection string for the same is mentioned in the appSetting.Json
+6. To interact with the DB the application is making use of Entity Framework Core
+7. The Migrations for the DB is with the Employee.DAL project
+8. Many of the code written as part of testing is not removed and is commented in the application
+9. The way in which I used to test the application is by entring the Cotroller/Action in the url once the localhost is up.
+10. The code is not cleaned up as I am continuing with the 'what is new in VS 2019' especially in changes related to middlewares. So the unused namespaces and commented codes are still there.
+11. As this is a personal project created only for the purpose of learning and experimenting latest changes with VS, I did not pay much attention on the coding standards and optimizations etc.
